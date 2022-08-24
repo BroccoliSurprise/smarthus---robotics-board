@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-kitronik-robotics-board": "github:kitronikltd/pxt-kitronik-robotics-board#V0.0.6"
+        "pxt-kitronik-robotics-board": "github:kitronikltd/pxt-kitronik-robotics-board#V0.0.6",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
     },
     "files": [
         "main.blocks",
@@ -22,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
